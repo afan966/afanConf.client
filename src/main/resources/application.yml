@@ -1,0 +1,5 @@
+afanConfig:
+  serviceUrl: localhost:8001 
+app:
+  name: afanConf
+  instance: tradeCenter
